@@ -1,4 +1,2 @@
 SHASHIPAL REDDY GIT LEARNING TUTORIALS
-DSA Boot Camp Tutorials
-0 to FAANG target in 1 year.
-# Test sample
+Testing in progress
